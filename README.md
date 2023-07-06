@@ -1,2 +1,2 @@
 # To-Do-List-application
-This is a fully functional To-Do-List application made with django 
+This is a fully functional Todolist application made with python(django) 
